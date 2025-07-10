@@ -24,5 +24,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=prajjwal-17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Visitor Count](https://profile-counter.glitch.me/{prajjwal-17}/count.svg)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
